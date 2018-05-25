@@ -1,3 +1,3 @@
-# My Awesome Book
+# css选择器
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+CSS元素选择器(也称为类型选择器)通过node节点名称匹配元素。 因此,在单独使用时,寻找特定类型的元素时,元素选择器都会匹配该文档中所有此类型的元素。
